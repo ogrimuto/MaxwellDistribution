@@ -1,0 +1,10 @@
+D:\Work\Гримуто Олег\Maxwell\Maxwell\bin\Debug\Maxwell.exe.config
+D:\Work\Гримуто Олег\Maxwell\Maxwell\bin\Debug\Maxwell.exe
+D:\Work\Гримуто Олег\Maxwell\Maxwell\bin\Debug\Maxwell.pdb
+D:\Work\Гримуто Олег\Maxwell\Maxwell\obj\Debug\Maxwell.csprojResolveAssemblyReference.cache
+D:\Work\Гримуто Олег\Maxwell\Maxwell\obj\Debug\Maxwell.Form1.resources
+D:\Work\Гримуто Олег\Maxwell\Maxwell\obj\Debug\Maxwell.Properties.Resources.resources
+D:\Work\Гримуто Олег\Maxwell\Maxwell\obj\Debug\Maxwell.csproj.GenerateResource.Cache
+D:\Work\Гримуто Олег\Maxwell\Maxwell\obj\Debug\Maxwell.exe
+D:\Work\Гримуто Олег\Maxwell\Maxwell\obj\Debug\Maxwell.pdb
+D:\Work\Гримуто Олег\Maxwell\Maxwell\obj\Debug\Maxwell.Form2.resources
